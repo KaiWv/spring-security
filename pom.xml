@@ -11,8 +11,8 @@
     <groupId>com.kaiw</groupId>
     <artifactId>spring-serurity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-serurity</name>
-    <description>spring-serurity</description>
+    <name>spring-security</name>
+    <description>spring-security</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
