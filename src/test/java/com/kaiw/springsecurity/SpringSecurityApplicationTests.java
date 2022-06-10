@@ -1,10 +1,10 @@
-package com.kaiw.springserurity;
+package com.kaiw.springsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSerurityApplicationTests {
+class SpringSecurityApplicationTests {
 
     @Test
     void contextLoads() {
